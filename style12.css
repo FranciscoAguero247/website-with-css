@@ -1,0 +1,6 @@
+#contianer{
+    border: 2px solid;
+}
+#contianer > p{
+    background-color: hsl(60, 100%, 70%);
+}

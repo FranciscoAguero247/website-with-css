@@ -1,0 +1,19 @@
+@font-face {
+    src: url(fonts/Roboto-Light.ttf);
+    font-family: Roboto-Light;
+}
+
+@font-face {
+    src: url(fonts/OpenSans-Italic-VariableFont_wdth\,wght.ttf);
+    font-family: OpenSans;
+}
+
+h1{
+    font-family: Roboto-Light, Verdana, Geneva, Tahoma, sans-serif, arial;
+}
+p{
+    font-family: 'OpenSans', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, 'Courier New', Courier, monospace;
+    font-size: 1em;
+    font-weight: bold;
+    font-style: italic;
+}
